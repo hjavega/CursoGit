@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Ejercicio_Bloque_1\Ejercicio_Bloque_1\obj\Debug\netcoreapp3.1\Ejercicio_Bloque_1.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Ejercicio_Bloque_1\Ejercicio_Bloque_1\obj\Debug\netcoreapp3.1\Ejercicio_Bloque_1.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Ejercicio_Bloque_1\Ejercicio_Bloque_1\obj\Debug\netcoreapp3.1\Ejercicio_Bloque_1.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Ejercicio_Bloque_1\Ejercicio_Bloque_1\obj\Debug\netcoreapp3.1\Ejercicio_Bloque_1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Ejercicio_Bloque_1\Ejercicio_Bloque_1\bin\Debug\netcoreapp3.1\Ejercicio_Bloque_1.exe
+C:\Users\lenovo\source\repos\Ejercicio_Bloque_1\Ejercicio_Bloque_1\bin\Debug\netcoreapp3.1\Ejercicio_Bloque_1.deps.json
+C:\Users\lenovo\source\repos\Ejercicio_Bloque_1\Ejercicio_Bloque_1\bin\Debug\netcoreapp3.1\Ejercicio_Bloque_1.runtimeconfig.json
+C:\Users\lenovo\source\repos\Ejercicio_Bloque_1\Ejercicio_Bloque_1\bin\Debug\netcoreapp3.1\Ejercicio_Bloque_1.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Ejercicio_Bloque_1\Ejercicio_Bloque_1\bin\Debug\netcoreapp3.1\Ejercicio_Bloque_1.dll
+C:\Users\lenovo\source\repos\Ejercicio_Bloque_1\Ejercicio_Bloque_1\bin\Debug\netcoreapp3.1\Ejercicio_Bloque_1.pdb
+C:\Users\lenovo\source\repos\Ejercicio_Bloque_1\Ejercicio_Bloque_1\obj\Debug\netcoreapp3.1\Ejercicio_Bloque_1.dll
+C:\Users\lenovo\source\repos\Ejercicio_Bloque_1\Ejercicio_Bloque_1\obj\Debug\netcoreapp3.1\Ejercicio_Bloque_1.pdb
+C:\Users\lenovo\source\repos\Ejercicio_Bloque_1\Ejercicio_Bloque_1\obj\Debug\netcoreapp3.1\Ejercicio_Bloque_1.genruntimeconfig.cache

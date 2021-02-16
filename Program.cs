@@ -1,4 +1,5 @@
-﻿using System;
+﻿/*Programa realizado por Horacio J. Jávega Gualda para pruebas*/
+using System;
 
 
 // Vamos a hacer un ejercicio para usar todo lo que hemos aprendido hasta el video 40

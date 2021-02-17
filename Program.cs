@@ -1,4 +1,5 @@
-﻿/*Programa realizado por Horacio J. Jávega Gualda para pruebas*/
+﻿/*Programa realizado por Horacio J. Jávega Gualda para pruebas
+Pruebas de versionado de GitHub*/
 using System;
 
 
